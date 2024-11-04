@@ -31,7 +31,11 @@ h1 {
   line-height: 1.5;
   color: #272044;
 }
-
+p {
+  text-align: center;
+  text-decoration: underline;
+  color: #5c5b5e;
+}
 .form-container {
   background-color: white;
   margin-bottom: 30px;
